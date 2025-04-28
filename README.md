@@ -1,0 +1,1 @@
+# PaddleOCR2.6banbendazhijiaochengfenxiang
